@@ -1,0 +1,2 @@
+# .github
+CarletonU Math Society
